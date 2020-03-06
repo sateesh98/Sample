@@ -2,3 +2,4 @@
 2:staged
 3:not staged
 4
+5678
